@@ -25,10 +25,10 @@ The classes “Berth registry”, “Member registry” and “Calendar” are m
 We suggest the domain model author to reflect over if the conceptual class Club is necessary and if so - reason about why. Since several assumptions originates from this class (as described above) it might be a good idea to either refactor these or add some form of explanation to why they are needed.
 
 ##Conclusion
-Overall, the model strikes a good balance between beeing understandable by both the domain expert and the developer. The domain expert will find the concepts used to be well known and a useful overview of the system, and the developer will have a good, detailed foundation to build upon.
+Overall, the model strikes a good balance between being understandable by both the domain expert and the developer. The domain expert will find the concepts used to be well known and a useful overview of the system, and the developer will have a good, detailed foundation to build upon.
 The model has some assumptions we can’t find a source of, but they are all reasonable. The relations are clear and intuitive, and corresponds with the problem description.
 
-From our point of view, the author passes grade 2. The author has through deep analyzis of the problem domain visualized a thourough, well thought out model of the boat-club. 
+From our point of view, the author passes grade 2. The author has through deep analysis of the problem domain visualized a thourough, well thought out model of the boat-club. 
 
 ##Reference list
 1. Larman, C., Applying UML and Patterns 3rd Ed, 2005, ISBN: 0-13-148906-2

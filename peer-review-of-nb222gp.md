@@ -1,7 +1,7 @@
 #1DV607 Workshop 1 Peer review
 [Domain model reviewed](https://github.com/slim2k6/1DV607-OOA-D/blob/master/20160913_144927.jpg)  
 Domain model author: [Nicklas Björkendal](https://github.com/slim2k6)   
-Peer review authors: [Trosell, Christian](https://github.com/krockgardin), [Andersson, Peter](https://github.com/sehnpaa), [Skarin, Ulrica](https://github.com/ulricaskarin)  
+Peer review authors: [Christian Trosell](https://github.com/krockgardin), [Peter Andersson](https://github.com/sehnpaa), [Ulrica Skarin](https://github.com/ulricaskarin)  
 
 ##Overview
 This domain model gives a very well thought through impression. The author has spent quite a lot of time analyzing the problem area, providing a model with a lot of details. As Larman suggests is preferable [1, p.136] the author has also named his conceptual classes with words taken directly from the domain vocabulary. The model is easy to read and understand, hence the author has added a lot of details (such as multiplicity values, directional reading arrows [1, p.152] etc). This greatly facilitates the general understanding and readability of the model.

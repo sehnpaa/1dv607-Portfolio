@@ -4,7 +4,7 @@ Portfolio for the course [1dv607 - Object oriented analyzis and design with UML]
 
 ## [Workshop I: Domain modeling](https://coursepress.lnu.se/kurs/objektorienterad-analys-och-design-med-uml/workshops-2/workshop-1-domain-modeling/)
 * [Domain Model](https://www.gliffy.com/go/publish/11103331) | First submission: Sept 13 2016 at 12:00 ~~TODO~~ 
-* Peer review submission: Sept 16 2016 at 12:00 TODO
+* [Peer review of mo222mw](https://github.com/ulricaskarin/1dv607-Portfolio/blob/master/peer-review-of-mo222mw.md): Sept 16 2016 at 12:00 TODO
 * Final submission: Sept 21 2016 at 12:00 TODO
 
 ### Contributors Workshop I:

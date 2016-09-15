@@ -6,6 +6,7 @@ Portfolio for the course [1dv607 - Object oriented analyzis and design with UML]
 * [Domain Model](https://www.gliffy.com/go/publish/11103331) | First submission: Sept 13 2016 at 12:00 ~~TODO~~ 
 * [Peer review of mo222mw](https://github.com/ulricaskarin/1dv607-Portfolio/blob/master/peer-review-of-mo222mw.md): Sept 16 2016 at 12:00 TODO
 * [Peer review of nb222gp](https://github.com/ulricaskarin/1dv607-Portfolio/blob/master/peer-review-of-nb222gp.md): Sept 16 2016 at 12:00 TODO
+* [Receieved review on our model](https://github.com/ulricaskarin/1dv607-Portfolio/blob/master/peer-review-from-folep02.md) from Fredrik Olsson | [E-mail](fole02@student.lnu.se) |
 * Final submission: Sept 21 2016 at 12:00 TODO
 
 ### Contributors Workshop I:

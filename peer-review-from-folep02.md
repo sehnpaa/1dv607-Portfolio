@@ -1,7 +1,7 @@
 #1DV607 Recieved Peer review on our model 
 [Domain model reviewed](https://www.gliffy.com/go/publish/11103331)      
 Domain model authors: [Christian Trosell](https://github.com/krockgardin), [Peter Andersson](https://github.com/sehnpaa), [Ulrica Skarin](https://github.com/ulricaskarin)  
-Peer review author: Fredrik Olsson [E-mail](folep02)
+Peer review author: Fredrik Olsson |fole02|
 
 Original review found [here](https://docs.google.com/document/d/1B8Hphj6zwPrxqFITpBx6zRbyOZUASMzI1lhNfYL-Qew/edit)
 

@@ -27,3 +27,7 @@ Lastly, we would like to point out a small factor that might cause confusion whe
 Overall this is a good domain model that a developer as well as a domain expert may understand and make use of. As stated earlier, concepts are sprung directly from the problem area that should be recognizable and well-known to a domain expert (for example the secretary). With some small changes and improvements (listed above) a developer might easily make use of this model as a good starting point when further elaborating a software model.
 
 We believe that the author of the model passes grade 2 for this assignment. It is a good visual guide over the specific problem area. It is also clear that the author has analyzed and given thought to requirements stated as well as the problem description of the domain.
+
+## Reference list
+1. Larman, C., Applying UML and Patterns 3rd Ed, 2005, ISBN: 0-13-148906-2
+

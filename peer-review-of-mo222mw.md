@@ -1,7 +1,7 @@
 #1DV607 Workshop 1 Peer review
 [Domain model reviewed](https://github.com/mo222mw/1dv607)     
 Domain model author: [Michael Racette Olsén](https://github.com/mo222mw)  
-Peer review authors: [Trosell, Christian](https://github.com/krockgardin), [Andersson, Peter](https://github.com/sehnpaa), [Skarin, Ulrica](https://github.com/ulricaskarin)  
+Peer review authors: [Christian Trosell](https://github.com/krockgardin), [Peter Andersson](https://github.com/sehnpaa), [Ulrica Skarin](https://github.com/ulricaskarin)  
 
 ##Overview
 The first impression of this domain model is good. It is clear and explicit, easy to get a general understanding of. The author of the model has used conceptual classes with names clearly taken from the current domain vocabulary - which is a preferable approach according to Larman [1, p.136]. Furthermore, the model does not present any “out-of-scope” features. In other words, there are no irrelevant extra classes or associations added to the model which is conformant to the “Mapmaker Strategy” [1, p.145]. 

@@ -1,6 +1,6 @@
 #1DV607 Workshop 1 Peer review
 [Domain model reviewed](https://github.com/mo222mw/1dv607)     
-Domain model author: Michael Racette Olsén  
+Domain model author: [Michael Racette Olsén](https://github.com/mo222mw)  
 Peer review authors: [Trosell, Christian](https://github.com/krockgardin), [Andersson, Peter](https://github.com/sehnpaa), [Skarin, Ulrica](https://github.com/ulricaskarin)  
 
 ##Overview

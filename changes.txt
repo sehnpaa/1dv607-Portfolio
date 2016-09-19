@@ -1,5 +1,15 @@
+We do not agree a relation between Member and Berth should be added as it’s not one of the requirements for this model. The domain model is limited by the requirements.
+
+We agree that there are some inconsistencies when Secretary has no attributes while Member do. The username and password attributes in Member might be more related to the authentication process. In this case, one might assume that both Member and Secretary already are authenicated. Therefore we chose to remove the attributes username and password in Member.
+
+The Event class can indeed be made clearer by renaming it to Calendar, but we wanted to still point out its purpose is about the actual events. The new, final name is “CalenderEvent”.
+
+As mentioned in the diagram, the “Reservation is tracking history of reserved Berths.” Therefore, we are inclined to keep it as is.
+
 Diagram changes:
 - Changed 0..* to  *
 - Removed Member’s attributes
 - Changed Event to CalendarEvent
 - Removed multiplicities around Reservation and Secretary to remove clutter.
+
+The new diagram can be found at: https://www.gliffy.com/go/publish/11159361

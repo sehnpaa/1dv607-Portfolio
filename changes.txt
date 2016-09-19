@@ -1,0 +1,5 @@
+Diagram changes:
+- Changed 0..* to  *
+- Removed Member’s attributes
+- Changed Event to CalendarEvent
+- Removed multiplicities around Reservation and Secretary to remove clutter.
